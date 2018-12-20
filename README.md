@@ -20,13 +20,13 @@ To install the templates package open a terminal and run:
 - For the latest _pre-release_ version:
 
     ```
-    dotnet new -i "AspNetCore.ApiControllers.Templates::1.0.0-*"
+    dotnet new -i "URF.Core.ApiControllers.Templates::1.0.0-*"
     ```
 
 - For the latest _stable_ version:
 
     ```
-    dotnet new -i "AspNetCore.ApiControllers.Templates::*"
+    dotnet new -i "URF.Core.ApiControllers.Templates::*"
     ```
 
 To set back your dotnet new list to "factory defaults" use this command:
